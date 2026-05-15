@@ -4,7 +4,6 @@ This project builds a Neural Network-based SMS spam classifier that predicts whe
 
 It uses a deep learning model built with TensorFlow/Keras and trained on the SMS Spam Collection dataset.
 📊 Dataset
-
 The dataset contains SMS messages labeled as:
 
 ham → normal message from friends/family
